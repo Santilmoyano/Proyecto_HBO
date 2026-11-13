@@ -25,10 +25,10 @@ Los detalles de la metodogia de trabajo usada estan en la seccion nota metodolog
 Hallazgo principal: Destacar las 10 mejores peliculas puede ayudar a los usuarios a identificar rapidamente contenido de alta valoración.
 
 Instrucciones para ejecutar el proyecto:
--Clonar el repositorio: descargar el proyecto desde GitHub o clonar el repositorio utilizando Git.
--Instalar PostgreSQL: verificar que PostgreSQL se encuentre instalado y funcionando en el equipo.
--Abrir DBeaver: iniciar DBeaver y establecer una conexión con el servidor PostgreSQL.
--Crear la base de datos: crear una nueva base de datos destinada al proyecto HBO Max.
--Ejecutar el script de creación: abrir el archivo SQL correspondiente y ejecutar las sentencias para crear las tablas y relaciones de la base de datos.
--Cargar los datos: ejecutar el script de inserción para incorporar los registros de películas.
--Ejecutar la consulta: ejecutar las sentencias para obtener las 10 películas mejor valoradas.
+- Clonar el repositorio: descargar el proyecto desde GitHub o clonar el repositorio utilizando Git.
+- Instalar PostgreSQL: verificar que PostgreSQL se encuentre instalado y funcionando en el equipo.
+- Abrir DBeaver: iniciar DBeaver y establecer una conexión con el servidor PostgreSQL.
+- Crear la base de datos: crear una nueva base de datos destinada al proyecto HBO Max.
+- Ejecutar el script de creación: abrir el archivo SQL correspondiente y ejecutar las sentencias para crear las tablas y relaciones de la base de datos.
+- Cargar los datos: ejecutar el script de inserción para incorporar los registros de películas.
+- Ejecutar la consulta: ejecutar las sentencias para obtener las 10 películas mejor valoradas.
